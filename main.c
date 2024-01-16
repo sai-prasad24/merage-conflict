@@ -12,6 +12,10 @@ Initial Function()
   {
 	  //sample code feature1
   }
+  feature2()
+  {
+	  //sample code feature2
+  }
 }
 
 
